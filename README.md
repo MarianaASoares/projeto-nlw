@@ -26,8 +26,8 @@
 <h2>🎯 Funcionalidades</h2>
 <p>✔️ Cadastro de novos usuários via formulário;</p>
 <p>✔️ Geração de link personalizado após a inscrição;</p>
-<p>Contagem de indicações para cada participante;</p>
+<p>✔️Contagem de indicações para cada participante;</p>
 <p>✔️ Layout responsivo.</p>
 
 <h2>📱 Demonstração</h2>
-<p>Acesse o link a seguir para conferir o projeto: </p>
+<a href="https://marianaasoares.github.io/projeto-nlw/">Clique e acesse o projeto!</a>
