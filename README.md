@@ -30,4 +30,4 @@
 <p>✔️ Layout responsivo.</p>
 
 <h2>📱 Demonstração</h2>
-<a href="https://marianaasoares.github.io/projeto-nlw/">Clique e acesse o projeto!</a>
+<a href="https://marianaasoares.github.io/projeto-nlw/">🔗Clique e acesse o projeto!</a>
