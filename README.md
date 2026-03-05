@@ -36,10 +36,10 @@
 --- 
 
 # :gear: Funcionalidades
-<p>✔️ Cadastro de novos usuários via formulário;</p>
-<p>✔️ Geração de link personalizado após a inscrição;</p>
-<p>✔️Contagem de indicações para cada participante;</p>
-<p>✔️ Layout responsivo.</p>
+<p> :heavy_check_mark: Cadastro de novos usuários via formulário;</p>
+<p> :heavy_check_mark: Geração de link personalizado após a inscrição;</p>
+<p> :heavy_check_mark: Contagem de indicações para cada participante;</p>
+<p> :heavy_check_mark: Layout responsivo.</p>
 
 ---
 
