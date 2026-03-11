@@ -29,7 +29,7 @@
 
 # :camera: Preview
 
-<img src="assets/imagem-projeto-página-de-inscrições.png" width = "450"> 
+<img src="assets/imagem-projeto-página-de-inscrições.png" width = "100%"> 
 
 🔗 [Ver projeto](https://projeto-nlw-lilac.vercel.app/) 
 
